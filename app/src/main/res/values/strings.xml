@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="detail_name">Detail User</string>
+    <string name="query_hint">Search user</string>
+    <string name="content_desc_setting">Change language</string>
+    <string name="content_desc_back">Back</string>
+    <string name="detail_tab_1">Followers</string>
+    <string name="detail_tab_2">Following</string>
+    <string name="status_empty">User not found</string>
+    <string name="status_error">Something wrong</string>
+    <string name="detail_no_name">no name</string>
+    <string name="detail_no_email">no email</string>
+    <string name="lang_change_msg">Language change to EN</string>
+    <string name="github_token">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</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="detail_name">Detail Pengguna</string>
+    <string name="query_hint">Cari pengguna</string>
+    <string name="content_desc_setting">Ubah bahasa</string>
+    <string name="content_desc_back">Kembali</string>
+    <string name="detail_tab_1">Pengikut</string>
+    <string name="detail_tab_2">Mengikuti</string>
+    <string name="status_empty">Pengguna tidak ditemukan</string>
+    <string name="status_error">Terjadi kesalahan</string>
+    <string name="detail_no_name">tanpa nama</string>
+    <string name="detail_no_email">tidak ada email</string>
+    <string name="lang_change_msg">Bahasa berubah menajadi ID</string>
+    <string name="github_token">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</string>
+</resources>
